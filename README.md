@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @jermania321
-- 👀 I’m interested in ... IOT
-- 🌱 I’m currently learning ...Model engineering College Kochi
-- 💞️ I’m looking to collaborate on ... Projects related to iot and embedded systems
-- 📫 How to reach me ... This is my mail id jerryjose29@gmail.com
+# Hi there, I'm Jerry! 👋
 
-<!---
-jermania321/jermania321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Embedded Software Engineer @ HARMAN International**
+
+- 🔧 Working with **C/C++, QNX, AUTOSAR**, and real-time embedded systems.
+- 🔐 Experienced in distributed systems, secure communication, and service-oriented architectures.
+- 🎓 B.Tech (Honours) in Electronics & Communication Engineering, with a Minor in Computer Science.
+- 🧠 Interested in **Edge AI, Cyber-Physical Systems, Machine Learning, and FPGA-based computing**.
+- 🚀 Exploring the intersection of intelligent software and embedded hardware.
+- 🤝 Open to collaborating on interesting open-source projects involving embedded systems, AI, and C++.
+
+### 🛠️ Tech Stack
+
+**Languages:** C · C++ · Python · Bash · Tcl
+
+**Embedded:** QNX Neutrino · Embedded Linux · AUTOSAR · Real-Time Systems
+
+**Tools:** Git · QNX Momentics · Vivado HLS · OpenCV
+
+**Other Interests:** Edge AI · Computer Vision · FPGA · Embedded Security
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/)
+- **Email:** jerryjose29@gmail.com
