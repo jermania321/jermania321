@@ -21,5 +21,5 @@
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/)
+- [LinkedIn](https://www.linkedin.com/in/jerry-zachariah-jose-0b49a6190/)
 - **Email:** jerryjose29@gmail.com
